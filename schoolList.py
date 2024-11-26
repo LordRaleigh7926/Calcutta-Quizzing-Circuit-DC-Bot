@@ -18,7 +18,7 @@ rolesEmojis = [
     "🟤",  # For School 17
     "⚪",  # For School 18
     "⚫",  # For School 19
-    "⭐"   # For School 20
+    "⭐"   # For School 20no
 ]
 
 
